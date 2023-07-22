@@ -24,7 +24,7 @@ h2 {
   /* Радиус скругления */
   border: 3px solid transparent;
   /* Параметры рамки */
-  box-shadow: 0 10px 25px 0px rgba(3, 122, 219, 0.916);
+  box-shadow: 0 10px 25px 0px rgba(15, 232, 149, 0.916);
   object-fit: cover;
 }
 
